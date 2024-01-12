@@ -1,0 +1,11 @@
+Folha: Carreira_
+Colunas:
+	Numdocente - Num Docente
+	Nome - Nome Docente
+	Código Unidade orgânica - Num Unidade Orgânica
+	Unidade orgânica - Unidade Orgãnica
+	Categoria - Função
+	Regime de prestação de serviço - Tipo de Regime da Função
+	% do Regime parcial - ???
+	Horas letivas - Número de Horas nesse Regime
+	Unidade das horas letivas - Tipo de Unidade de Horas Letivas

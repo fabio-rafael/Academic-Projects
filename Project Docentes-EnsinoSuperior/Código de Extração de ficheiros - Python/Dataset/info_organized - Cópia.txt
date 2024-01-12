@@ -1,0 +1,46 @@
+Folha:
+    - Carreira%
+    - Atividades
+Colunas:
+	- Num Docente
+	    "Numdocente",
+	    "IDDOcente",
+	    "IDDOcente",
+	- Nome Docente
+        "Nome_docente",
+        "Nome completo",
+        "Nome",
+	- Num Unidade Orgânica
+	    "UO",
+	    "Código unidade orgânica",
+	    "Código unidade orgânica (Carreira)",
+	    "Código Unidade orgânica",
+	- Unidade Orgãnica
+	    "Uo_Nome1",
+	    "Unidade orgânica",
+	    "Unidade orgânica (Carreira)",
+	- Função
+	    "Categoria_Nome",
+	    #"Docente"
+	    "Categoria",
+	- Tipo de Regime da Função
+	    "RegimePrestacaoServico_nome",
+	    #"Tempo integral"
+	    "Regime de prestação de serviço",
+	- ??? (regime parcial?)
+	    "RegimeParcial",
+	    "% Tempo de Docência",
+	    "% do regime parcial",
+	    "% do Regime parcial",
+	    "Regime parcial",
+	- Número de Horas nesse Regime
+	    "HorasLetivas",
+	       * Número de horas de docência do 1ºsemestre 2019/2020
+		   * Número de horas de docência do 2ºsemestre 2018/2019
+	    "Horas letivas
+	- Tipo de Unidade de Horas Letivas
+	    "UnidadeHL
+	    "Unidade medida horas docência do 1ºsemestre
+	    "UnidAnuaisde horAnuaisSemAnuaisnAnuaisis letivAnuaisSemAnuaisnAnuaisis
+	    "Unidade horas letivas
+	    "Unidade das horas letivas

@@ -1,0 +1,18 @@
+Folha: Carreira_Rebides
+Colunas:
+	IDDOcente - Num Docente
+	Nome completo- Nome Docente
+	Código unidade orgânica - Num Unidade Orgânica
+	Unidade orgânica - Unidade Orgãnica
+	Categoria - Função
+	Regime de prestação de serviço - Tipo de Regime da Função
+	% do regime parcial - ??? (regime parcial?)
+	Horas letivas - Número de Horas nesse Regime
+	Tipo de Unidade de Horas Letivas:
+		UnidAnuaisde horAnuaisSemAnuaisnAnuaisis letivAnuaisSemAnuaisnAnuaisis
+	Ou
+		Unidade horas letivas
+
+
+
+	

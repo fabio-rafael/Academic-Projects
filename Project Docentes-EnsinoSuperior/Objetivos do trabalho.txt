@@ -1,0 +1,31 @@
+Objective	[Part I]
+
+To develop a model to extract data from sources in MS Excel files. The data must be transferred automatically to a database for information processing.
+
+Tasks
+
+(i) Analysis of data sources;
+
+(ii) Model to extract data from divergent sources;
+
+(iii) Get data into an SGBD by adopting an automatic process;
+
+(iv) Data integrity tests;
+
+(v) Final report documenting development, principles, theories, and techniques adopted.
+
+
+[Part 2]
+
+	
+Requirements for the 2nd moment of assessment (continuation of the 1st assessment moment):
+
+- To have the complete dataset or a subset corresponding to an institution and its organic units, institutions of a region and its organic units, sector (public or private) or type of institution (university or polytechnic) stored in a database.
+
+- The database must be normalized and the quality of the data must be guaranteed (no lack of records, non-redundant data, normalized data, ...).
+
+-Propose 4 research questions, for which you will look for answers in the dataset. The questions will be discussed in the classroom with each group/student and validated with the teacher;
+
+- Carry out structured queries to the database that allow you to contribute to answering research questions;
+
+- Prepare the report which should specifically include the research questions, materials and methods, the discussion of the answers to the research questions, the conclusions (results achieved, limitations and future work) and an attachement with the contribution and the role of each group member.

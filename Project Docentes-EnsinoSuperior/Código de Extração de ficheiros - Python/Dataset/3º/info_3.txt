@@ -1,0 +1,18 @@
+Folha: 
+Colunas:
+	- Num Docente
+	Nome completo - Nome Docente
+	Código unidade orgânica - Num Unidade Orgânica
+	Unidade orgânica - Unidade Orgãnica
+	"Docente" - Função
+	"Tempo integral"- Tipo de Regime da Função
+	% Tempo de Docência - ??? (regime parcial?)
+	
+	Número de Horas nesse Regime: 
+		Número de horas de docência do 1ºsemestre 2019/2020
+		Número de horas de docência do 2ºsemestre 2018/2019
+	
+	Unidade medida horas docência do 1ºsemestre - Tipo de Unidade de Horas Letivas
+	
+
+Nota: NESTE TIPO HÁ INFORMAÇÃO ASSUMIDA e Soma de duas colunas.

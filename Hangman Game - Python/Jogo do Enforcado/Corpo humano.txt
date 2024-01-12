@@ -1,0 +1,16 @@
+Pescoço
+Torax
+Abdomen
+Pulso
+Dedos
+Coxa
+Joelho
+Tornozelo
+Pe
+Ombros
+Costas
+Cotovelo
+Mao
+Gluteos
+Perna
+Gemeo

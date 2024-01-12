@@ -1,0 +1,48 @@
+Albania:Tirana
+Alemanha:Berlim 
+Andorra:Andorra a Velha
+Austria:Viena
+Belgica:Bruxelas 
+Bielorrussia:Minsk
+Bosnia e Herzegovina:Sarajevo 
+Bulgaria:Sofia
+Cazaquistao:Astana
+Chipre:Nicosia 
+Croacia:Zagreb 
+Dinamarca:Copenhaga
+Eslovaquia:Bratislava
+Eslovenia:Liubliana
+Espanha:Madrid
+Estonia:Tallinn
+Finlandia:Helsinquia
+Franca:Paris
+Grecia:Atenas
+Hungria:Budapeste
+Irlanda:Dublin
+Islandia:Reykjavik
+Italia:Roma
+Letonia:Riga
+Liechtenstein:Vaduz
+Lituania:Vilnius
+Luxemburgo:Luxemburgo
+Malta:Valeta
+Moldavia:Chisinau
+Monaco:Monaco
+Montenegro:Podgorica
+Noruega:Oslo
+Paises Baixos:Amsterdao
+Polonia:Varsovia
+Portugal:Lisboa
+Republica Checa:Praga
+Macedonia do Norte:Skopje
+Romenia:Bucareste
+San Marino:San Marino
+Servia:Belgrado
+Suecia:Estocolmo
+Suica:Berna
+Ucrania:Kiev
+Vaticano:Cidade do Vaticano
+Inglaterra:Londres
+Irlanda do norte:Belfast
+Escocia:Edimburgo
+Pais de Gales:Cardiff

@@ -1,0 +1,12 @@
+Folha: CarreiraAtividades
+Colunas:
+	IDDOcente - Num Docente
+	Nome_docente - Nome Docente
+	UO - Num Unidade Orgânica
+	Uo_Nome1 - Unidade Orgãnica
+	Categoria_Nome - Função
+	RegimePrestacaoServico_nome - Tipo de Regime da Função
+	RegimeParcial - ???
+	HorasLetivas - Número de Horas nesse Regime
+	UnidadeHL - Tipo de Unidade de Horas Letivas
+	

@@ -1,0 +1,16 @@
+Folha: 
+Colunas:
+	IDdocente - Num Docente
+	Nome - Nome Docente
+	Código unidade orgânica (Carreira) - Num Unidade Orgânica
+	Unidade orgânica (Carreira) - Unidade Orgãnica
+	Categoria - Função
+	Regime de prestação de serviço - Tipo de Regime da Função
+	Regime parcial - ??? (regime parcial?)
+	Horas letivas - Número de Horas nesse Regime
+	Unidade horas letivas - Tipo de Unidade de Horas Letivas
+		Nota: Unidade horas letivas: 
+			A - Anuais
+			S - Semanais
+
+	
